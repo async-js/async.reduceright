@@ -12,7 +12,7 @@
   "dependencies": {
     "async.reduce": "0.4.2",
     "async.util.identity": "0.4.2",
-    "async.util.map": "0.4.2"
+    "async.util.map": "0.4.3"
   },
   "keywords": [
     "async",
