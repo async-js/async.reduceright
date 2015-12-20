@@ -10,7 +10,7 @@
   "version": "0.4.2",
   "license": "MIT",
   "dependencies": {
-    "async.reduce": "0.4.2",
+    "async.reduce": "0.4.3",
     "async.util.identity": "0.4.2",
     "async.util.map": "0.4.2"
   },
